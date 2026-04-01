@@ -22,10 +22,6 @@ Our architecture is built heavily around providing a secure, high-throughput fin
 
 Check out our [Technical Whitepaper](https://promptly-landing.vercel.app/Promptly%20Litepaper.pdf) for a deep dive into the smart contract logic and backend architecture.
 
-## Open Source Repositories
-
-- **[Promptly Core](https://github.com/Promptly-0/Promptly)**: The primary frontend landing page and autonomous terminal UI.
-
 ---
 
 *Because AI can be unpredictable, security is our primary focus.*
